@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background:  url(resim/gif.gif );
+background-repeat: no-repeat;
+background-size: cover;
+}
+.box{
+    width: 450px;
+    background: rgb(59, 59, 85);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+.box img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 150px;
+}
+.box h5{
+    font-size: 30px;
+    font-weight: 100;
+    letter-spacing: 4px;
+}
+.boxxx{
+    background-color:rgb(59, 59, 85);
+width: 600px;
+height:700px;
+margin: auto;
+margin-top: 150px;
+}
+.notlarkutu{
+    width: 500px;
+    height: 600px;
+
+}
